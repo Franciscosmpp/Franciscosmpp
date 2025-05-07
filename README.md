@@ -1,7 +1,7 @@
 <h1>Hello World!, I'm Francisco, a Portuguese Web Developer 👋🏼:</h1>
-<p>I’m 21 years old :)  
-  Programming and Information Systems Technician!!
-  Looking for an opportunity to grow professionally in the tech field, as I plan to further my education with a degree in Computer Engineering.</p>
+<p>I’m 21 years old :) </p>
+<p>Programming and Information Systems Technician!!</p>
+<p>Looking for an opportunity to grow professionally in the tech field, as I plan to further my education with a degree in Computer Engineering.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
