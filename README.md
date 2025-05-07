@@ -1,7 +1,3 @@
-# 💫 About Me:
-I’m 21 years old :)<br>Programming and Information Systems Technician!!<br>Looking for an opportunity to grow professionally in the tech field, as I plan to further my education with a degree in Computer Engineering.
-
-
 <h1>Hello World!, I'm Francisco, a Portuguese Web Developer 👋🏼:</h1>
 <p>I’m 21 years old :)  
   Programming and Information Systems Technician!!
